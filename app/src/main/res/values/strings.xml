@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Diary Pro</string>
+    <string name="menu">Your Choices are :-
+                        </string>
+    <string name="choice">Enter your choice here</string>
+    <string name="add">ADD A NEW RECORD</string>
+    <string name="show">ALL RECORDS</string>
+    <string name="id_hint">Enter ID</string>
+    <string name="f_hint">Enter first name</string>
+    <string name="l_hint">Enter last name</string>
+    <string name="add_hint">Enter address</string>
+    <string name="city_hint">Enter city name</string>
+    <string name="dob_hint">Enter date of birth</string>
+    <string name="mail_hint">Enter email</string>
+    <string name="mob_hint">Enter mobile number</string>
+    <string name="search">SEARCH A RECORD</string>
+    <string name="del">DELETE A RECORD</string>
+    <string name="mod_main">MODIFY A RECORD</string>
+    <string name="intro">Developed for you by VA!</string>
+    <string name="pass">Enter Pin</string>
+    <string name="pass_confim">Confirm Pin</string>
+    <string name="disp">DISPLAY ALL RECORDS</string>
+</resources>
